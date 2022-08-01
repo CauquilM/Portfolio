@@ -45,7 +45,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Home
+                  Accueil
                 </NavLink>
               </li>
               <li>
@@ -57,7 +57,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Education
+                  Formation
                 </NavLink>
               </li>
               <li>
@@ -69,7 +69,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Experience
+                  Expérience
                 </NavLink>
               </li>
               <li>
@@ -81,10 +81,10 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Projects
+                  Projets
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/opensource"
                   tag={Link}
@@ -95,7 +95,7 @@ class Header extends Component {
                 >
                   Open Source
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink
                   to="/contact"
@@ -105,7 +105,7 @@ class Header extends Component {
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
                   onMouseOut={(event) => onMouseOut(event)}
                 >
-                  Contact Me
+                  Me Contacter
                 </NavLink>
               </li>
             </ul>

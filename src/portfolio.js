@@ -59,10 +59,11 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Front End Development",
+      title: "Front End",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Développement d'applications web responsive en React et Vue",
+        "⚡ Développement d'applications web responsive en ReactJs",
+        "⚡ Développement d'applications web responsive en VueJs",
         "⚡ Développement de PWA",
       ],
       softwareSkills: [
@@ -128,14 +129,11 @@ const skills = {
     {
       title: "UI/UX Design",
       fileName: "DesignImg",
-      skills: [
-        "⚡ Design d'applications web avec Balsamik",
-        "⚡ Créations de mockups avec draw.io",
-      ],
+      skills: ["⚡ Créations de mockups avec draw.io"],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:drawio",
+          skillName: "Draw.io",
+          fontAwesomeClassname: "vscode-icons:file-type-drawio",
           style: {
             color: "#FF2BC2",
           },
@@ -149,44 +147,12 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "CodinGame",
+      iconifyClassname: "simple-icons:codingame",
       style: {
         color: "#2EC866",
       },
       profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
     },
   ],
 };
@@ -194,9 +160,9 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
+      title: "Titre professionnel développeur web et web mobile",
+      subtitle: "Niveau 5",
+      logo_path: "logo-ldnr.jpg",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - Present",
       descriptions: [
