@@ -230,19 +230,7 @@ const experience = {
   sections: [
     // {
     //   title: "Work",
-    //   experiences: [
-    //     {
-    //       title: "Android Developer",
-    //       company: "FreeCopy Pvt. Ltd.",
-    //       company_url: "https://www.linkedin.com/company/freecopy/about/",
-    //       logo_path: "freecopy_logo.png",
-    //       duration: "Nov 2017 - Dec 2017",
-    //       location: "Ahmedabad, Gujarat",
-    //       description:
-    //         "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-    //       color: "#fc1f20",
-    //     },
-    //   ],
+    //   experiences: [],
     // },
     {
       title: "Doc2U",
@@ -262,28 +250,19 @@ const experience = {
     },
     // {
     //   title: "Volunteerships",
-    //   experiences: [
-    //     {
-    //       title: "Developer Program Member",
-    //       company: "Github",
-    //       company_url: "https://github.com/",
-    //       logo_path: "github_logo.png",
-    //       duration: "July 2019 - PRESENT",
-    //       location: "Work From Home",
-    //       description:
-    //         "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-    //       color: "#181717",
-    //     },
-    //   ],
+    //   experiences: [],
     // },
   ],
 };
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Projets",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Mes projets sont principalement en VueJS et ReactJS, ce sont les technologies front end que je préfère",
+  // "My projects makes use of vast variety of latest technology tools.
+  // My best experience is to create Data Science projects and deploy them to web applications
+  // using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -297,7 +276,7 @@ const publicationsHeader = {
 // Contact Page
 const contactPageData = {
   contactSection: {
-    title: "Contact Me",
+    title: "Contact",
     profile_image_path: "animated_ashutosh.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
