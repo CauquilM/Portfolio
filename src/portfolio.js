@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Mathieu CAUQUIL",
-  logo_name: "AshutoshHathidara",
+  logo_name: "Mathieu Cauquil",
   nickname: "MatDev",
   subTitle:
     "Un jeune développeur à la recherche de nouveaux projets passionants.",
