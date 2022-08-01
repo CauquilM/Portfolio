@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Mathieu CAUQUIL Portfolio",
     type: "website",
-    url: "https://cauquilm.github.io/Portfolio",
+    url: "https://cauquilm.github.io",
   },
 };
 
