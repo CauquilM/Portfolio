@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d858b02bf914132c3744e0d2359ae1e8",
+    "revision": "1bbe3bb182633403f98d841fc97377aa",
     "url": "/index.html"
   },
   {
-    "revision": "93f608510e0e9b5c2874",
+    "revision": "f68dbbd8ca8c748778fa",
     "url": "/static/css/main.f2cad464.chunk.css"
   },
   {
-    "revision": "8a1bd6365309847f4282",
-    "url": "/static/js/2.7d60bf0f.chunk.js"
+    "revision": "5972878b2cdcb1195f22",
+    "url": "/static/js/2.c150be39.chunk.js"
   },
   {
-    "revision": "93f608510e0e9b5c2874",
-    "url": "/static/js/main.5622d0d6.chunk.js"
+    "revision": "f68dbbd8ca8c748778fa",
+    "url": "/static/js/main.b2a36723.chunk.js"
   },
   {
     "revision": "1eca90f2cdaa2ecb7d93",
@@ -206,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2f421eb2e5d393c20bed7637fe410e77",
     "url": "/static/media/logo-educ-gov.2f421eb2.svg"
+  },
+  {
+    "revision": "1348401a5a5585279d217306b0afc729",
+    "url": "/static/media/logo.1348401a.svg"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
