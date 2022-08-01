@@ -172,21 +172,51 @@ const degrees = {
       ],
       website_link: "https://www.ldnr.fr/",
     },
+    {
+      title: "Baccalauréat Systèmes Electroniques Numériques",
+      subtitle: "Niveau 6",
+      logo_path: "lycee-hessel.jpg",
+      alt_name: "LDNR",
+      duration: "2021-2022",
+      descriptions: [
+        "⚡ J'ai appris à installer des systèmes d'alarmes anti-incendie et anti-vol.",
+        "⚡ J'ai les lois électriques et électroniques élémentaires.",
+        "⚡ Habilitation BR.",
+      ],
+      website_link: "https://www.ldnr.fr/",
+    },
   ],
 };
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Machine Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "stanford_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    //   alt_name: "Stanford University",
-    //   color_code: "#8C151599",
-    // },
-    //
+    {
+      title: "EF english",
+      subtitle: "Niveau C1",
+      logo_path: "ef-set.png",
+      certificate_link:
+        "http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NzUS1&r=LTgyNzY3ODA1ODAS1&j=MjIzNzY1Nzk3NQS2&mt=1&rt=0",
+      alt_name: "EF english",
+      color_code: "#000080",
+    },
+    {
+      title: "Mention européenne au baccalauréat",
+      subtitle: "Section anglais",
+      logo_path: "logo-educ-gov.svg",
+      certificate_link:
+        "http://links.t-educationfirst.mkt4686.com/servlet/MailView?ms=NTY0Mzg4NzUS1&r=LTgyNzY3ODA1ODAS1&j=MjIzNzY1Nzk3NQS2&mt=1&rt=0",
+      alt_name: "EF english",
+      color_code: "#000080",
+    },
+    {
+      title: "Sololearn HTML",
+      subtitle: "Certificat de complétion du cours HTML",
+      logo_path: "sololearn.svg",
+      certificate_link:
+        "https://www.sololearn.com/Certificate/1014-20023164/jpg/",
+      alt_name: "EF english",
+      color_code: "#000080",
+    },
   ],
 };
 
