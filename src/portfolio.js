@@ -135,30 +135,9 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          fontAwesomeClassname: "simple-icons:drawio",
           style: {
             color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
