@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4767f6c55a2df73c7175468c52a7a075",
+    "revision": "71f2d53e40949ca7cc17332635cca69f",
     "url": "/index.html"
   },
   {
-    "revision": "89c32355735009468a1a",
-    "url": "/static/css/main.25f83316.chunk.css"
+    "revision": "6c35a8dcc4908277c438",
+    "url": "/static/css/main.f2cad464.chunk.css"
   },
   {
     "revision": "8a1bd6365309847f4282",
     "url": "/static/js/2.7d60bf0f.chunk.js"
   },
   {
-    "revision": "89c32355735009468a1a",
-    "url": "/static/js/main.90054b77.chunk.js"
+    "revision": "6c35a8dcc4908277c438",
+    "url": "/static/js/main.59726319.chunk.js"
   },
   {
     "revision": "1eca90f2cdaa2ecb7d93",
@@ -204,8 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
-    "revision": "47d8f633fd55fa55176060dc09b93267",
-    "url": "/static/media/logo-educ-gov.47d8f633.svg"
+    "revision": "2f421eb2e5d393c20bed7637fe410e77",
+    "url": "/static/media/logo-educ-gov.2f421eb2.svg"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
