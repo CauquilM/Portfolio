@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Un jeune développeur à la recherche de nouveaux projets passionants.",
   resumeLink: "https://cvdesignr.com/p/608d19a94b05c?hl=fr_FR",
-  portfolio_repository: "https://github.com/CauquilM/Portfolio",
+  portfolio_repository: "https://github.com/CauquilM",
   githubProfile: "https://github.com/cauquilM",
 };
 
